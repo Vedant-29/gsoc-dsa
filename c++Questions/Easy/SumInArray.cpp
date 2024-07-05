@@ -5,7 +5,7 @@ int main() {
 
     int arr[5];
     int sum;
-
+    
     cout << "Enter an array of the size 5 = ";
 
     for (int i=0; i < 5; i++) {
