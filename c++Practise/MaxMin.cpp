@@ -26,6 +26,7 @@ int getMin(int arr[], int num) {
 
 int main() {
     int size;
+    cout << "Enter a size of an array = ";
     cin >> size;
 
     int num[10000];
